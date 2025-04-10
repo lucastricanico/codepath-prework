@@ -15,11 +15,12 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://imgur.com/a/I8ExSyY.gif)
+![Video Walkthrough](https://i.imgur.com/JmWr49J.gif)
 
 ## App Brainstorming (Step 4)
 
 **Favorite Applications & Features**
+
 App 1: Notion
 - Creating customized databases to keep track of assignments
 - Visualizing data in several formats, such as calendar, list, chart, timeline, and more
